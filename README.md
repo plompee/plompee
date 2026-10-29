@@ -101,9 +101,4 @@ An all-in-one business operations SaaS: sales, inventory, orders, expenses, staf
   <img src="https://streak-stats.demolab.com?user=plompee&hide_border=true&background=0b0605&ring=ff3d00&fire=ffb300&currStreakLabel=ff8c00&sideLabels=ffe9c7&dates=8a6a55&currStreakNum=ffe9c7&sideNums=ffe9c7" height="160"/>
 </p>
 
-<p align="center">
-  <b>Have a role, a project or an idea?</b> I usually reply within a day.<br>
-  <a href="mailto:dimalivakd@gmail.com">dimalivakd@gmail.com</a> · <a href="https://plompee.github.io">plompee.github.io</a> · <a href="https://plompee.github.io/Dima_Livak_CV.pdf">CV (PDF)</a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d00,50:ffb300,100:ff3d00&height=90&section=footer" width="100%"/>
