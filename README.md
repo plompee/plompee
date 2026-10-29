@@ -96,9 +96,4 @@ An all-in-one business operations SaaS: sales, inventory, orders, expenses, staf
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3d00,50:ffb300,100:ff3d00&height=3" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plompee&show_icons=true&hide_border=true&bg_color=0b0605&title_color=ff8c00&icon_color=ffb300&text_color=ffe9c7" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=plompee&hide_border=true&background=0b0605&ring=ff3d00&fire=ffb300&currStreakLabel=ff8c00&sideLabels=ffe9c7&dates=8a6a55&currStreakNum=ffe9c7&sideNums=ffe9c7" height="160"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d00,50:ffb300,100:ff3d00&height=90&section=footer" width="100%"/>
